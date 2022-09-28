@@ -3,9 +3,8 @@ khoerul225/khoerul225 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ###  Here are some ideas to get you started:
-#### - 👀 I’m interested in IT (Information AND Technology)
 #### - 👋 Hi, I’m @khoerulmutaqinkm
-#### - 🌱 I’m currently learning C# for .NET
+#### - 👀 I’m interested in IT (Information AND Technology)
 #### - 🤔 I’m looking for help with ... everything haha since I'm noob in everything
 #### - 📫 How to reach me : [Twitter](https://twitter.com/mutaqin225)
 
