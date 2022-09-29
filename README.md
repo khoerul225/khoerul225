@@ -2,7 +2,6 @@
 khoerul225/khoerul225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-###  Here are some ideas to get you started:
 #### - 👋 Hi, I’m @khoerulmutaqinkm
 #### - 👀 I’m interested in IT (Information AND Technology)
 #### - 🤔 I am an engineer and I can solve your problem
