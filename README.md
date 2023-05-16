@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 #### - 👋 Hi, I’m @khoerulmutaqinkm
 #### - 👀 I’m interested in IT (Information AND Technology)
 #### - 🤔  I am an engineer and I can solve your problem
-#### - 📫 How to reach me : [Twitter](https://twitter.com/mutaqin225)
+<!-- #### - 📫 How to reach me : [Twitter](https://twitter.com/mutaqin225) -->
 
 
 
