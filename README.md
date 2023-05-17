@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
    </table>
 </p>
 
-<h3>My coding stack: </h3>
+<!-- <h3>My coding stack: </h3>
 <p>
   <img alt=".NET" src="https://img.icons8.com/color/48/000000/.net-framework.png" />
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="Xml" src="https://img.icons8.com/color/48/000000/xml-file.png" />
   </br>
 </p>
-
+ -->
 ![GitHub repo size](https://img.shields.io/github/repo-size/odoomates/odooapps?style=plastic)
 ![GitHub language count](https://img.shields.io/github/languages/count/odoomates/odooapps?style=plastic)
 ![GitHub top language](https://img.shields.io/github/languages/top/odoomates/odooapps?style=plastic)
