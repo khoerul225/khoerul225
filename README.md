@@ -41,9 +41,9 @@ You can click the Preview link to take a look at your changes.
   </br>
 </p>
  -->
-![GitHub repo size](https://img.shields.io/github/repo-size/khoerulmutaqinkm/odooapps?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/khoerulmutaqinkm/odooapps?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/khoerulmutaqinkm/odooapps?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/khoerulmutaqinkm/odooapps?color=red&style=plastic)
+<!-- ![GitHub repo size](https://img.shields.io/github/repo-size/khoerulmutaqinkm/odooapps?style=plastic) -->
+<!-- ![GitHub language count](https://img.shields.io/github/languages/count/khoerulmutaqinkm/odooapps?style=plastic) -->
+<!-- ![GitHub top language](https://img.shields.io/github/languages/top/khoerulmutaqinkm/odooapps?style=plastic) -->
+<!-- ![GitHub last commit](https://img.shields.io/github/last-commit/khoerulmutaqinkm/odooapps?color=red&style=plastic) -->
 
 <br/>
