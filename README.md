@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
        <th>Language Contribution</th>
      </tr>
       <tr>
-       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=khoerulmutaqinkm&show_icons=true&theme=radical"> </td>
+<!--        <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=khoerulmutaqinkm&show_icons=true&theme=radical"> </td> -->
        <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoerulmutaqinkm&langs_count=10&theme=merko&layout=compact&hide=html"> </td>
    </table>
 </p>
