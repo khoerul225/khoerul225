@@ -16,6 +16,8 @@ You can click the Preview link to take a look at your changes.
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoerul-mutaqin-9866a1221/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khoerulmutaqin225@gmail.com)
 
+
+         
 <br/>
 
 <p align="center">
@@ -25,14 +27,20 @@ You can click the Preview link to take a look at your changes.
             <th>Language Contribution</th>
 </tr>
       <tr>
-          <td>
-          <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api?username=khoerulmutaqinkm\&rank_icon=percentile"> 
-          </td>
-          <td>
+           <td>
+                <img src="https://github-readme-stats.vercel.app/api?username=khoerulmutaqinkm&rank_icon=github" alt="Khoerul M GitHub stats">
+            </td>           
+         <td>
           <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoerulmutaqinkm&langs_count=10&theme=transparent&layout=compact&hide=html"> 
           </td>
+      </tr>
    </table>
 </p>
+
+
+*   Compact layout
+
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact)
 
 <h3>My coding stack: </h3>
 <p>
@@ -53,5 +61,5 @@ You can click the Preview link to take a look at your changes.
 ![GitHub top language](https://img.shields.io/github/languages/top/khoerulmutaqinkm/odooapps?style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/khoerulmutaqinkm/odooapps?color=red&style=plastic)
 
-<br/>
 
+<br/>
