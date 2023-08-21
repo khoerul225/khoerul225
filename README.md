@@ -25,10 +25,10 @@ You can click the Preview link to take a look at your changes.
      </tr>
       <tr>
           <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoerulmutaqinkm&langs_count=10&theme=transparent&layout=compact&hide=html"> </td>
-          <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoerulmutaqinkm&repo=github-readme-stats&theme=buefy" />    </td>
-         <td>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoerulmutaqinkm&repo=anuraghazra.github.io&theme=buefy" />
-       </td>
+<!--           <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoerulmutaqinkm&repo=github-readme-stats&theme=buefy" />    </td>
+         <td> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khoerulmutaqinkm&repo=anuraghazra.github.io&theme=buefy" />
+       </td> -->
        <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoerulmutaqinkm&langs_count=10&theme=transparent&layout=compact&hide=html"> </td>
    </table>
 </p>
