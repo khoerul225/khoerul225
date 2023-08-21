@@ -26,8 +26,7 @@ You can click the Preview link to take a look at your changes.
 </tr>
       <tr>
           <td>
-<img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"
-/>        
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoerulmutaqinkm\&rank_icon=percentile)
           </td>
           <td>
           <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoerulmutaqinkm&langs_count=10&theme=transparent&layout=compact&hide=html"> 
@@ -54,7 +53,5 @@ You can click the Preview link to take a look at your changes.
 ![GitHub top language](https://img.shields.io/github/languages/top/khoerulmutaqinkm/odooapps?style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/khoerulmutaqinkm/odooapps?color=red&style=plastic)
 
-*   Shows user rank percentile instead of rank level
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoerulmutaqinkm\&rank_icon=percentile)
 <br/>
 
