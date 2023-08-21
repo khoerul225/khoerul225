@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 </tr>
       <tr>
           <td>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoerulmutaqinkm\&rank_icon=percentile)
+          <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api?username=khoerulmutaqinkm\&rank_icon=percentile"> 
           </td>
           <td>
           <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoerulmutaqinkm&langs_count=10&theme=transparent&layout=compact&hide=html"> 
