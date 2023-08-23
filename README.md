@@ -37,11 +37,6 @@ You can click the Preview link to take a look at your changes.
    </table>
 </p>
 
-
-*   Compact layout
-
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact)
-
 <h3>My coding stack: </h3>
 <p>
 <!--   <img alt=".NET" src="https://img.icons8.com/color/48/000000/.net-framework.png" /> -->
