@@ -10,6 +10,10 @@ You can click the Preview link to take a look at your changes.
 #### - 🤔 I am an engineer and I can solve your problem
 
 #### - 📫 How to reach me : [Twitter](https://twitter.com/mutaqin225)
+<p align="center">
+<img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
+</p>
+<br>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mutaqin.khoerul)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mrepsilon4662)
