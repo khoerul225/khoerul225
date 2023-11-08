@@ -3,7 +3,7 @@ khoerul225/khoerul225 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-#### - 👋 Hi, I’m @khoerulmutaqinkm
+#### - 👋 Hi, I’m @khoerulmutaqin225
 
 #### - 👀 I’m interested in IT (Information AND Technology)
 
@@ -32,10 +32,10 @@ You can click the Preview link to take a look at your changes.
 </tr>
       <tr>
            <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=khoerulmutaqinkm&rank_icon=github" alt="Khoerul M GitHub stats">
+                <img src="https://github-readme-stats.vercel.app/api?username=khoerulmutaqin225&rank_icon=github" alt="Khoerul M GitHub stats">
             </td>           
          <td>
-          <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoerulmutaqinkm&langs_count=10&theme=transparent&layout=compact&hide=html"> 
+          <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoerulmutaqin225&langs_count=10&theme=transparent&layout=compact&hide=html"> 
           </td>
       </tr>
    </table>
@@ -55,10 +55,10 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 *   Shows user rank percentile instead of rank level
-![GitHub repo size](https://img.shields.io/github/repo-size/khoerulmutaqinkm/odooapps?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/khoerulmutaqinkm/odooapps?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/khoerulmutaqinkm/odooapps?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/khoerulmutaqinkm/odooapps?color=red&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/khoerulmutaqin225/odooapps?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/khoerulmutaqin225/odooapps?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/khoerulmutaqin225/odooapps?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/khoerulmutaqin225/odooapps?color=red&style=plastic)
 
 
 <br/>
