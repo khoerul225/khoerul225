@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 #### - 🤔 I am an engineer and I can solve your problem
 
 #### - 📫 How to reach me : [Twitter](https://twitter.com/mutaqin225)
+#### - ✉ Mail : [khoerulmutaqin225@gmail.com](mailto:khoerulmutaqin225@gmail.com)
 <p align="center">
 <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
 </p>
