@@ -1,3 +1,10 @@
+<h3>My coding stack: </h3>
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,bootstrap,laravel,angular,net,mysql,django,flask,next,vue,react,remix,aws,arduino,cs,git,github,java,jquery,latex,linkedin,linux,postgres,postman,ubuntu,go&theme=dark)](https://skillicons.dev)
+
+
+
 <!---
 khoerul225/khoerul225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -46,10 +53,6 @@ You can click the Preview link to take a look at your changes.
    </table>
 </p>
 
-<h3>My coding stack: </h3>
-
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,bootstrap,laravel,angular,net,mysql,django,flask,next,vue,react,remix,aws,arduino,cs,git,github,java,jquery,latex,linkedin,linux,postgres,postman,ubuntu,go&theme=dark)](https://skillicons.dev)
 
 [![](https://visitcount.itsvg.in/api?id=khoerulmutaqin225&icon=0&color=0)](https://visitcount.itsvg.in)
 
